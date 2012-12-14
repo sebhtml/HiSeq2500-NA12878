@@ -1,0 +1,9 @@
+From http://blog.basespace.illumina.com/2012/11/19/2x150bp-human-genome-in-record-time-with-the-hiseq-2500/
+
+This dataset contains human data generated Illumina HiSeq 2500.
+
+To download the data, login onto BaseSpace, get the cookie called IComLogin
+and put it in ~/123.
+
+Then run Get.sh
+
