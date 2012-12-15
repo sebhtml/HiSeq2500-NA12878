@@ -1,4 +1,7 @@
-From http://blog.basespace.illumina.com/2012/11/19/2x150bp-human-genome-in-record-time-with-the-hiseq-2500/
+This project is for downloading HiSeq 2500 and HiSeq 2000 data for NA12878.
+
+http://blog.basespace.illumina.com/2012/11/19/2x150bp-human-genome-in-record-time-with-the-hiseq-2500/
+http://blog.basespace.illumina.com/2012/11/26/high-concordance-between-hiseq-2000-and-hiseq-2500-data
 
 This dataset contains human data generated Illumina HiSeq 2500.
 
@@ -7,5 +10,7 @@ and put it in BaseSpace-IComLogin.txt
 
 The address of BaseSpace is https://basespace.illumina.com
 
-Then run Get.sh
+Then run 
+
+./Get.sh /Samples/HiSeq-2500-NA12878-demo-2x150.txt BaseSpace-IComLogin.txt
 

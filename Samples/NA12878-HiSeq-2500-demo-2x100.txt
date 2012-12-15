@@ -1,0 +1,8 @@
+https://basespace.illumina.com/sample/262266/files/tree/sorted_S1_L001_R1_001.fastq.gz?id=25055112&appResultId=
+https://basespace.illumina.com/sample/262266/files/tree/sorted_S1_L001_R1_002.fastq.gz?id=25073719&appResultId=
+https://basespace.illumina.com/sample/262266/files/tree/sorted_S1_L001_R2_001.fastq.gz?id=25106332&appResultId=
+https://basespace.illumina.com/sample/262266/files/tree/sorted_S1_L001_R2_002.fastq.gz?id=25127793&appResultId=
+https://basespace.illumina.com/sample/262266/files/tree/sorted_S1_L002_R1_001.fastq.gz?id=25153986&appResultId=
+https://basespace.illumina.com/sample/262266/files/tree/sorted_S1_L002_R1_002.fastq.gz?id=25178176&appResultId=
+https://basespace.illumina.com/sample/262266/files/tree/sorted_S1_L002_R2_001.fastq.gz?id=25193009&appResultId=
+https://basespace.illumina.com/sample/262266/files/tree/sorted_S1_L002_R2_002.fastq.gz?id=25222754&appResultId=
