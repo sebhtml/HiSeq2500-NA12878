@@ -14,3 +14,15 @@ Then run
 
 ./Get.sh Samples/HiSeq-2500-NA12878-demo-2x150.txt BaseSpace-IComLogin.txt
 
+
+If that does not work:
+
+1. Did you visit BaseSpace at (for HiSeq-2500-NA12878-demo-2x150) ?
+- https://basespace.illumina.com/s/ZRVfL7wB0iou
+- https://basespace.illumina.com/s/mjjCt7g5vQAx
+- https://basespace.illumina.com/s/ryHNELfGO4mt
+
+This is necessary to give you access. This 3 links are from the blog post above.
+
+
+2. Is your cookie valid ?
