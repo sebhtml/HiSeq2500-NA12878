@@ -1,0 +1,4 @@
+https://basespace.illumina.com/sample/37052/files/raw/s_G1_L001_R1_001.fastq.1.gz?id=3360154
+https://basespace.illumina.com/sample/37052/files/raw/s_G1_L001_R1_002.fastq.1.gz?id=3360155
+https://basespace.illumina.com/sample/37052/files/raw/s_G1_L001_R2_001.fastq.1.gz?id=3360156
+https://basespace.illumina.com/sample/37052/files/raw/s_G1_L001_R2_002.fastq.1.gz?id=3360157
