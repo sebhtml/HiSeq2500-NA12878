@@ -1,0 +1,5 @@
+** Resuming transfer from byte position 20247581108
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   314  100   314    0     0    840      0 --:--:-- --:--:-- --:--:--   840100   314  100   314    0     0    839      0 --:--:-- --:--:-- --:--:--     0  0 20531    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (33) HTTP server doesn't seem to support byte ranges. Cannot resume.
